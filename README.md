@@ -32,6 +32,9 @@ The original VBA code had to be refactored in order to improve efficiency. Chang
 
 ## Results  
 See the runtime of both the 2017 and 2018 years:  
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/83401820/123564394-f4551580-d77e-11eb-8255-3f5e9827539f.png)  
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/83401820/123564400-fa4af680-d77e-11eb-954f-67c722e1bb64.png)  
 
 
 ## Summary  
