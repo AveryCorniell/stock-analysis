@@ -49,7 +49,7 @@ See the runtime of both the 2017 and 2018 years:
 	- if the code has a bad design, it would not be beneficial  
 	- might require a great deal of testing and retesting  
 - Specific disadvantages of refactoring this code were:  
-	- because I wrote the original code and checked it, new it worked, I was reluctant to see any ways that it could be improved (owner-bias)  
+	- because I wrote the original code and checked it, knew it worked, I was reluctant to see any ways that it could be improved (owner-bias)  
 	- the desired outcome was to make it run faster by streamlining some code, but in the effort to make the code more expandable, the actual runtime increased  
 In conclusion, while the code, refactored does allow Steve to run a larger dataset, it does not necessarily decrease the runtime.  
 Obviously the more data the program has to analyze, the longer it will take to analyze that data, but with the enhanced loop structure and the buit in automations, Steve  
